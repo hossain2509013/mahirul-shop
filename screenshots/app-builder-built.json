@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mahirul — Custom Bottles & Keyrings",
+      "hasCanvas": false,
+      "bodyTextLen": 2529,
+      "bodyTextHash": "15d2ea476b08de36fa2c089b44be31e672779bccaca856fffe30358dbab0e9e4",
+      "bodyTextPrefix": "MAHIRUL CUET bottle Custom How to order Contact Pre-order CHATTO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mahirul — Custom Bottles & Keyrings",
+      "hasCanvas": false,
+      "bodyTextLen": 2529,
+      "bodyTextHash": "2ae7999a19e8d978c6638256ae41cfe61b0b34ea6decc0ccfd9a50b6bd50961c",
+      "bodyTextPrefix": "MAHIRUL Pre-order CUET bottle Custom How to order Contact CHATTO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
